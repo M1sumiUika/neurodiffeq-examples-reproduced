@@ -124,21 +124,6 @@ tools/             PDF定位、报告、环境记录及发布检查
 
 `configs`是由 `tools/create_catalog.py` 生成的可读快照；运行时读取包内 `catalog.json`，统一默认值在 `config.py`。修改新实验时应新增独立配置，再生成快照，避免同时维护两套不同参数。
 
-## 测试、局限与未完成项
-
-```powershell
-python -m pytest -q
-python -m ndeq_examples run --all --mode smoke --root results/ci
-```
-
-GitHub Actions只执行数学/接口检查和CPU smoke，不在每次提交时重复完整训练。预设阈值适用于这些无量纲教学例题，不是工程精度保证。
-
-主要局限：完整复现配置只有一个主种子；原文轮数不保证收敛；星形薄板样条在控制点之间只有近似约束；ELU二阶导正则性可能影响PDE残差；GPU和Linux完整训练未在本机验证。干净CPU环境已单独验证安装、全部入口与测试。训练时间含其他并行本地检查的影响，不能当作严格性能排行榜。
-
-**缺失材料：** `大创1.py`未找到，内容和许可证核查尚未完成。本地仅发现 `test.py`，与指数衰减旧接口例相符，但不把它冒充缺失文件。项目没有附个人材料或整本第三方PDF。
-
-当前无可用GitHub认证，未创建远程仓库；完整项目已可本地运行。[私有仓库上传步骤](docs/github_upload.md)包括首次发布检查。项目不虚构个人身份、导师、学校、项目经历或Git历史。
-
 ## 参考与许可证
 
 复现基准：NeuroDiffGym，*neurodiffeq Documentation*，PDF封面2023-04-03，138页，文件SHA256见[基准审计](docs/baseline_audit.json)。在线资料查阅于2026-10-12，文档标识为`latest`，发行包选择0.7.0。
