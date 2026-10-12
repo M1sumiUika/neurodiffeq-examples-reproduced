@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neurodiffeq-examples-reproduced"
+version = "0.1.0"
+description = "NeuroDiffEq 文档示例复现与数值验证 (2023-04-03 baseline)"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "neurodiffeq==0.7.0", "torch==2.6.0", "numpy==1.26.4",
+  "scipy==1.15.2", "matplotlib==3.9.2", "pillow==10.4.0",
+  "pandas==2.2.3", "pyparsing==3.1.4"
+]
+
+[project.optional-dependencies]
+dev = ["pytest==8.3.4", "nbformat>=5.10", "nbclient>=0.10", "ipykernel>=6.29", "pypdf==4.3.1"]
+
+[project.scripts]
+ndeq = "ndeq_examples.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ndeq_examples = ["catalog.json", "problems.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
