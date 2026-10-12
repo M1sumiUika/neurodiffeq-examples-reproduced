@@ -1,0 +1,1120 @@
+{
+  "filename": "neurodiffeq-readthedocs-io-en-latest.pdf",
+  "sha256": "dd57a078fabf7c4f1a3d1f0e0e1abe1bf7a2b2afda21f6f4e6c00139f9ac973e",
+  "pages": 138,
+  "metadata": {
+    "/Author": "NeuroDiffGym",
+    "/Title": "neurodiffeq Documentation",
+    "/Subject": "",
+    "/Creator": "LaTeX with hyperref package",
+    "/Producer": "pdfTeX-1.40.18",
+    "/Keywords": "",
+    "/CreationDate": "D:20230403194033Z",
+    "/ModDate": "D:20230403194033Z",
+    "/Trapped": "/False",
+    "/PTEX.Fullbanner": "This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) kpathsea version 6.2.3"
+  },
+  "page_scan": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "characters": 51,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "characters": 0,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "characters": 3293,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "characters": 1806,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": 1,
+      "characters": 2604,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": 2,
+      "characters": 1696,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": 3,
+      "characters": 2448,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": 4,
+      "characters": 535,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": 5,
+      "characters": 45,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": 6,
+      "characters": 883,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": 7,
+      "characters": 128,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": 8,
+      "characters": 51,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": 9,
+      "characters": 1107,
+      "cell_labels": [
+        "1"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": 10,
+      "characters": 2383,
+      "cell_labels": [
+        "2",
+        "3",
+        "4"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": 11,
+      "characters": 2214,
+      "cell_labels": [
+        "5",
+        "6",
+        "7"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": 12,
+      "characters": 1727,
+      "cell_labels": [
+        "8",
+        "9",
+        "10"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": 13,
+      "characters": 1915,
+      "cell_labels": [
+        "11",
+        "12"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": 14,
+      "characters": 2125,
+      "cell_labels": [
+        "13"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": 15,
+      "characters": 2513,
+      "cell_labels": [
+        "14",
+        "15"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": 16,
+      "characters": 1922,
+      "cell_labels": [
+        "16",
+        "17"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": 17,
+      "characters": 1450,
+      "cell_labels": [
+        "17"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": 18,
+      "characters": 2020,
+      "cell_labels": [
+        "18",
+        "19"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": 19,
+      "characters": 1837,
+      "cell_labels": [
+        "20",
+        "21"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": 20,
+      "characters": 1541,
+      "cell_labels": [
+        "22",
+        "23",
+        "24"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": 21,
+      "characters": 1988,
+      "cell_labels": [
+        "25",
+        "26"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": 22,
+      "characters": 1953,
+      "cell_labels": [
+        "27",
+        "28"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": 23,
+      "characters": 1933,
+      "cell_labels": [
+        "29",
+        "30"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": 24,
+      "characters": 2131,
+      "cell_labels": [
+        "31"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": 25,
+      "characters": 1630,
+      "cell_labels": [
+        "32",
+        "34"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": 26,
+      "characters": 55,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": 27,
+      "characters": 1225,
+      "cell_labels": [
+        "1"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": 28,
+      "characters": 3016,
+      "cell_labels": [
+        "2",
+        "3"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": 29,
+      "characters": 2393,
+      "cell_labels": [
+        "4",
+        "5",
+        "6"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": 30,
+      "characters": 1554,
+      "cell_labels": [
+        "7",
+        "8"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": 31,
+      "characters": 1337,
+      "cell_labels": [
+        "9",
+        "10"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": 32,
+      "characters": 1977,
+      "cell_labels": [
+        "11",
+        "12"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": 33,
+      "characters": 1469,
+      "cell_labels": [
+        "13",
+        "14"
+      ],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": 34,
+      "characters": 1525,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": 35,
+      "characters": 904,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": 36,
+      "characters": 1586,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": 37,
+      "characters": 2186,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": 38,
+      "characters": 2170,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": 39,
+      "characters": 2046,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": 40,
+      "characters": 2018,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": 41,
+      "characters": 1868,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": 42,
+      "characters": 2254,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": 43,
+      "characters": 2331,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": 44,
+      "characters": 2130,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": 45,
+      "characters": 2000,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": 46,
+      "characters": 2328,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": 47,
+      "characters": 2142,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": 48,
+      "characters": 2147,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": 49,
+      "characters": 1737,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": 50,
+      "characters": 2058,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": 51,
+      "characters": 2262,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": 52,
+      "characters": 1881,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": 53,
+      "characters": 2070,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": 54,
+      "characters": 2513,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": 55,
+      "characters": 2654,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": 56,
+      "characters": 2269,
+      "cell_labels": [],
+      "api_code_candidates": [
+        ".get_solution()"
+      ]
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": 57,
+      "characters": 2087,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "solution = solver.get_solution()",
+        "point_coords = train_generator.get_examples()",
+        "value_at_points = solution(point_coords)"
+      ]
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": 58,
+      "characters": 3084,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": 59,
+      "characters": 2876,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 64,
+      "printed_page": 60,
+      "characters": 2097,
+      "cell_labels": [],
+      "api_code_candidates": [
+        ".get_solution()"
+      ]
+    },
+    {
+      "pdf_page": 65,
+      "printed_page": 61,
+      "characters": 2468,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "solution = solver.get_solution()",
+        "point_coords = train_generator.get_examples()",
+        "value_at_points = solution(point_coords)"
+      ]
+    },
+    {
+      "pdf_page": 66,
+      "printed_page": 62,
+      "characters": 2284,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 67,
+      "printed_page": 63,
+      "characters": 2575,
+      "cell_labels": [],
+      "api_code_candidates": [
+        ".get_solution()"
+      ]
+    },
+    {
+      "pdf_page": 68,
+      "printed_page": 64,
+      "characters": 2006,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "solution = solver.get_solution()",
+        "point_coords = train_generator.get_examples()",
+        "value_at_points = solution(point_coords)"
+      ]
+    },
+    {
+      "pdf_page": 69,
+      "printed_page": 65,
+      "characters": 2942,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 70,
+      "printed_page": 66,
+      "characters": 2400,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 71,
+      "printed_page": 67,
+      "characters": 2620,
+      "cell_labels": [],
+      "api_code_candidates": [
+        ".get_solution()"
+      ]
+    },
+    {
+      "pdf_page": 72,
+      "printed_page": 68,
+      "characters": 2241,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "solution = solver.get_solution()",
+        "point_coords = train_generator.get_examples()",
+        "value_at_points = solution(point_coords)"
+      ]
+    },
+    {
+      "pdf_page": 73,
+      "printed_page": 69,
+      "characters": 3032,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 74,
+      "printed_page": 70,
+      "characters": 2270,
+      "cell_labels": [],
+      "api_code_candidates": [
+        ".get_solution()"
+      ]
+    },
+    {
+      "pdf_page": 75,
+      "printed_page": 71,
+      "characters": 2546,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "solution = solver.get_solution()",
+        "point_coords = train_generator.get_examples()",
+        "value_at_points = solution(point_coords)"
+      ]
+    },
+    {
+      "pdf_page": 76,
+      "printed_page": 72,
+      "characters": 2513,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 77,
+      "printed_page": 73,
+      "characters": 2735,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 78,
+      "printed_page": 74,
+      "characters": 2064,
+      "cell_labels": [],
+      "api_code_candidates": [
+        ".get_solution()"
+      ]
+    },
+    {
+      "pdf_page": 79,
+      "printed_page": 75,
+      "characters": 2277,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "solution = solver.get_solution()",
+        "point_coords = train_generator.get_examples()",
+        "value_at_points = solution(point_coords)"
+      ]
+    },
+    {
+      "pdf_page": 80,
+      "printed_page": 76,
+      "characters": 2103,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 81,
+      "printed_page": 77,
+      "characters": 2215,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 82,
+      "printed_page": 78,
+      "characters": 2625,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 83,
+      "printed_page": 79,
+      "characters": 2142,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 84,
+      "printed_page": 80,
+      "characters": 1783,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 85,
+      "printed_page": 81,
+      "characters": 2092,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 86,
+      "printed_page": 82,
+      "characters": 2095,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 87,
+      "printed_page": 83,
+      "characters": 2402,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 88,
+      "printed_page": 84,
+      "characters": 3098,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 89,
+      "printed_page": 85,
+      "characters": 2677,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 90,
+      "printed_page": 86,
+      "characters": 1687,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 91,
+      "printed_page": 87,
+      "characters": 2166,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 92,
+      "printed_page": 88,
+      "characters": 2924,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 93,
+      "printed_page": 89,
+      "characters": 2920,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 94,
+      "printed_page": 90,
+      "characters": 2670,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 95,
+      "printed_page": 91,
+      "characters": 2553,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 96,
+      "printed_page": 92,
+      "characters": 2712,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 97,
+      "printed_page": 93,
+      "characters": 2401,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 98,
+      "printed_page": 94,
+      "characters": 1966,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 99,
+      "printed_page": 95,
+      "characters": 2060,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 100,
+      "printed_page": 96,
+      "characters": 2445,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 101,
+      "printed_page": 97,
+      "characters": 1772,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 102,
+      "printed_page": 98,
+      "characters": 1790,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 103,
+      "printed_page": 99,
+      "characters": 2248,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 104,
+      "printed_page": 100,
+      "characters": 2361,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 105,
+      "printed_page": 101,
+      "characters": 2419,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 106,
+      "printed_page": 102,
+      "characters": 2479,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "tuple[int, int, .. , int], or it can be int if N=1,",
+        "tuple[float, .. , float], or it can be float if N=1,",
+        "tuple[float, .. , float], or it can be float if N=1,"
+      ]
+    },
+    {
+      "pdf_page": 107,
+      "printed_page": 103,
+      "characters": 2499,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "list[str, str, .. , str], or it can be str if N=1,",
+        "MeshGenerator"
+      ]
+    },
+    {
+      "pdf_page": 108,
+      "printed_page": 104,
+      "characters": 2638,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "MeshGenerator",
+        "MeshGenerator",
+        "MeshGenerator",
+        "MeshGenerator(MeshGenerator(g1,",
+        "MeshGenerator(g1, g2, g3)",
+        "MeshGenerator",
+        "MeshGenerator(g1, g2, g3)"
+      ]
+    },
+    {
+      "pdf_page": 109,
+      "printed_page": 105,
+      "characters": 2270,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 110,
+      "printed_page": 106,
+      "characters": 2410,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 111,
+      "printed_page": 107,
+      "characters": 2335,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 112,
+      "printed_page": 108,
+      "characters": 2270,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 113,
+      "printed_page": 109,
+      "characters": 2411,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 114,
+      "printed_page": 110,
+      "characters": 2152,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "c = AndCallback([c1, c2, c3])",
+        "c = c1 & c2 & c3"
+      ]
+    },
+    {
+      "pdf_page": 115,
+      "printed_page": 111,
+      "characters": 2282,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 116,
+      "printed_page": 112,
+      "characters": 2475,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 117,
+      "printed_page": 113,
+      "characters": 2177,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "c = NotCallback(c1)",
+        "c = ~c1",
+        "c = OrCallback([c1, c2, c3])",
+        "c = c1 | c2 | c3"
+      ]
+    },
+    {
+      "pdf_page": 118,
+      "printed_page": 114,
+      "characters": 2174,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 119,
+      "printed_page": 115,
+      "characters": 2366,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 120,
+      "printed_page": 116,
+      "characters": 2130,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 121,
+      "printed_page": 117,
+      "characters": 2575,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 122,
+      "printed_page": 118,
+      "characters": 2155,
+      "cell_labels": [],
+      "api_code_candidates": [
+        "c = XorCallback([c1, c2, c3])",
+        "c = c1 ^ c2 ^ c3"
+      ]
+    },
+    {
+      "pdf_page": 123,
+      "printed_page": 119,
+      "characters": 882,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 124,
+      "printed_page": 120,
+      "characters": 54,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 125,
+      "printed_page": 121,
+      "characters": 1776,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 126,
+      "printed_page": 122,
+      "characters": 3823,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 127,
+      "printed_page": 123,
+      "characters": 53,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 128,
+      "printed_page": 124,
+      "characters": 58,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 129,
+      "printed_page": 125,
+      "characters": 63,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 130,
+      "printed_page": 126,
+      "characters": 59,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 131,
+      "printed_page": 127,
+      "characters": 398,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 132,
+      "printed_page": 128,
+      "characters": 49,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 133,
+      "printed_page": 129,
+      "characters": 2623,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 134,
+      "printed_page": 130,
+      "characters": 3282,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 135,
+      "printed_page": 131,
+      "characters": 3237,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 136,
+      "printed_page": 132,
+      "characters": 3307,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 137,
+      "printed_page": 133,
+      "characters": 3434,
+      "cell_labels": [],
+      "api_code_candidates": []
+    },
+    {
+      "pdf_page": 138,
+      "printed_page": 134,
+      "characters": 1446,
+      "cell_labels": [],
+      "api_code_candidates": []
+    }
+  ],
+  "scope": "全页提取；代码块、内嵌用法与图表另经人工核对。API签名不视为可执行示例。"
+}

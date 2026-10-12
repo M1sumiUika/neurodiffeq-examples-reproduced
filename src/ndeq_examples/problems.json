@@ -1,0 +1,11 @@
+{
+  "decay": {"equations": ["u_t + u = 0"], "domain": "t in [0,2]", "parameters": {}, "conditions": ["u(0)=1"], "reference": "exp(-t)"},
+  "oscillator": {"equations": ["u_tt + u = 0"], "domain": "t in [0,2*pi]", "parameters": {}, "conditions": ["u(0)=0", "u_t(0)=1"], "reference": "sin(t)"},
+  "circle": {"equations": ["u_t-v=0", "v_t+u=0"], "domain": "t in [0,2*pi]", "parameters": {}, "conditions": ["u(0)=0", "v(0)=1"], "reference": ["sin(t)", "cos(t)"]},
+  "lotka": {"equations": ["u_t-alpha*u+beta*u*v=0", "v_t-delta*u*v+gamma*v=0"], "domain": "[0,12]; migration second-stage training [0.1,12]", "parameters": {"alpha": 1, "beta": 1, "delta": 1, "gamma": 1}, "conditions": ["u(0)=1.5", "v(0)=1"], "reference": "SciPy solve_ivp DOP853; tolerance convergence check"},
+  "poisson": {"equations": ["u_xx+u_yy=2*x*(y-1)*(y-2*x+x*y+2)*exp(x-y)"], "domain": "[0,1] x [0,1]", "parameters": {}, "conditions": ["u=0 on all four edges"], "reference": "x*(1-x)*y*(1-y)*exp(x-y)"},
+  "laplace": {"equations": ["u_xx+u_yy=0"], "domain": "[0,1] x [0,1]", "parameters": {}, "conditions": ["u(0,y)=sin(pi*y)", "u(1,y)=u(x,0)=u(x,1)=0"], "reference": "sin(pi*y)*sinh(pi*(1-x))/sinh(pi)"},
+  "heat": {"equations": ["u_t-k*u_xx=0"], "domain": "x in [0,L], t in [0,T]", "parameters": {"k": 0.3, "L": 2, "T": 3}, "conditions": ["u(x,0)=sin(pi*x/L)", "u_x(0,t)=pi/L*exp(-k*pi^2*t/L^2)", "u_x(L,t)=-pi/L*exp(-k*pi^2*t/L^2)"], "reference": "sin(pi*x/L)*exp(-k*pi^2*t/L^2)"},
+  "star": {"equations": ["u_xx+u_yy+exp(u)=1+x^2+y^2+4/(1+x^2+y^2)^2"], "domain": "12-edge hexagram; vertices (0,-1) to (0,1); geometry.py", "parameters": {"edges": 12, "unique_control_points": 120}, "conditions": ["u(x,y)=log(1+x^2+y^2) on hexagram boundary (TPS approximation)"], "reference": "log(1+x^2+y^2)"}
+}
+

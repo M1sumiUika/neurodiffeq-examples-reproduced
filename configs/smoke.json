@@ -1,0 +1,9 @@
+{
+  "epochs": 2,
+  "grid": 8,
+  "valid_grid": 10,
+  "train_size": 16,
+  "valid_size": 16,
+  "valid_batches": 1,
+  "test_size": 256
+}

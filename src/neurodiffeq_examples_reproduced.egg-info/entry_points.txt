@@ -1,0 +1,2 @@
+[console_scripts]
+ndeq = ndeq_examples.cli:main

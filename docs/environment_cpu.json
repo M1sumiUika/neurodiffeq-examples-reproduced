@@ -1,0 +1,14 @@
+{
+  "python": "3.12.6",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "torch": "2.6.0+cpu",
+    "neurodiffeq": "0.7.0",
+    "numpy": "1.26.4",
+    "scipy": "1.15.2",
+    "matplotlib": "3.9.2",
+    "pandas": "2.2.3",
+    "pillow": "10.4.0"
+  },
+  "neurodiffeq_module_version": "0.6.3-dev"
+}
