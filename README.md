@@ -1,12 +1,5 @@
 # NeuroDiffEq 文档示例复现与数值验证
 
-**neurodiffeq-examples-reproduced** 是软件文档示例复现项目，不是原创求解器，也不是整篇论文复现。以用户提供的 **2023-04-03 NeuroDiffEq PDF** 为基准，补全可执行代码、修正兼容性问题，并用独立测试点进行数值验证。
-
-**当前成果：25个独立配置/片段组均已运行；其中18个训练配置跑完指定轮数，6个通过全部数值标准，另外7个短片段组断言通过。新增15次三种子对照训练。** 未达标结果没有隐藏，也没有把两轮 smoke 当作数值成功。`大创1.py`尚未找到，相关核查仍待补充。
-
-从这里开始：[中文学习指南](docs/learning_guide_zh.md) · [逐条覆盖表](docs/coverage.md) · [实际实验报告](docs/experiment_report.md) · [精选结果](results/README.md) · [English](README_EN.md)
-
-## 这个项目包含什么
 
 |来源|内容|处理原则|
 |---|---|---|
@@ -17,10 +10,6 @@
 |项目新增|硬/软约束对照、网络大小与采样方式对照、独立数值验收|显式标注，至少3个种子；不冒充原文实验|
 
 第1章Poisson只有公式和图，训练网络及轮数由本项目补全。`migration`保留原文复用已训练网络的行为：先训练3000轮，再在t≥0.1上继续3000轮。详见[勘误与决策](docs/errata.md)。
-
-## 安装：Windows PowerShell
-
-已验证 Python **3.12.6**。使用 Python 3.12 安装最方便；默认只需要CPU，不需要显卡。
 
 ```powershell
 cd "你的路径\neurodiffeq-examples-reproduced"
